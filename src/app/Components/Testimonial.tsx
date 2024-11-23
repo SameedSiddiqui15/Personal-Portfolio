@@ -97,7 +97,7 @@ export default function Testimonial(){
           </div>
         </div>
         <p className="mt-4 text-gray-700">
-        TypeScript allows me to write more maintainable and error-free code. I use it extensively to enhance JavaScript's capabilities, especially for large-scale applications.
+        TypeScript allows me to write more maintainable and error-free code. I use it extensively to enhance JavaScript&apos;s capabilities, especially for large-scale applications.
         </p>
       </blockquote>
     </div>
